@@ -10,7 +10,7 @@ O projeto é um **formulário** para os pais ou resposáveis, para ingressar o s
 
 ### 🖼️ Imagens do Projeto:
 
-(./assets/icons/formulario.png)
+
 
 
 
