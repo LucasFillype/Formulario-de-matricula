@@ -10,8 +10,8 @@ O projeto é um **formulário** para os pais ou resposáveis, para ingressar o s
 
 ### 🖼️ Imagens do Projeto:
 
-![Foto Principal](./Formulario-de-matricula/assets/demonstração.png)
-![Turnos e Esportes selecionáveis](./Formulario-de-matricula/assets/demonstração1.png)
+![Foto Principal](./Formulario-de-matricula/assets/icons/demonstração.png)
+![Turnos e Esportes selecionáveis](./Formulario-de-matricula/assets/icons/demonstração1.png)
 
 
 
