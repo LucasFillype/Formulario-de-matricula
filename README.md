@@ -14,8 +14,8 @@ O projeto é um **formulário** para os pais ou resposáveis, ingressarem os seu
 
 ### 🖼️ Imagens do Projeto:
 
-![Turnos e Esportes selecionáveis](./Formulario-de-matricula/assets/icons/demonstração1.png)
-![Foto Principal](./Formulario-de-matricula/assets/icons/demonstração.png)
+![Turnos e Esportes selecionáveis](./assets/icons/demonstração1.png)
+![Foto Principal](./assets/icons/demonstração.png)
 
 
 
